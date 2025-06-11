@@ -1,0 +1,12 @@
+{
+  "name": "Analytics",
+  "tree": {
+    "$className": "DataModel", 
+
+    "ReplicatedStorage": {
+        "Analytics": {
+            "$path":"src/Analytics"
+        }
+    }
+  }
+}
